@@ -5,7 +5,7 @@ Hello and Welcome!
 in today's workshop we will cover two parts :
 the first part is where we build a telco lake data mesh architecture , follow the below github link to get started :
 
-https://github.com/gubaruch/Data-mesh-util
+https://github.com/ajayravindranathan/Data-mesh-util
 
 in the second part , we will implement 3 telco use cases ,follow the below github link and follow the instructions :
 
